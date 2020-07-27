@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+.nav_image {
+    width: 100px;
+}
+
+#navbar-cart {
+    margin-left: 20px;
+}
+
+.popover {
+    width: 100%;
+    max-width: 800px;
+}
+
+#popover_content_wrapper {
+    display: none;
+}
